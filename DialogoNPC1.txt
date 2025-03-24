@@ -5,6 +5,4 @@ Mi nombre es Baltazar
 ¿Rodrigo es tu verdadero nombre?
 
 
-["DialogoNPC-SI"]
-
-["DialogoNPC-NO"]
+["DialogoNPC-SI","DialogoNPC-NO"]
