@@ -1,0 +1,13 @@
+-Baltazar
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+  - ¡Genial Rodrigo!
+  - Comencemos la aventura.
+=======
+-¡Genial Rodrigo!
+-Comencemos la aventura.
+>>>>>>> Stashed changes
+=======
+-¡Genial Rodrigo!
+-Comencemos la aventura.
+>>>>>>> Stashed changes
