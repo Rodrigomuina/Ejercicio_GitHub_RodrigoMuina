@@ -1,7 +1,5 @@
--Hola bienvenidos al mundo de Nunca jamas
+Hola bienvenidos al mundo de Nunca jamas
 
--Mi nombre es Baltazar
+Mi nombre es Baltazar
 
--¿Rodrigo es tu verdadero nombre?
-
-["DialogoNPC-SI"]
+¿Rodrigo es tu verdadero nombre?
